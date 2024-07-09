@@ -1,0 +1,27 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+header{
+    background-color: rgb(90, 90, 154);
+    height: 100px;
+    width: 100%;
+}
+ul{
+   
+    float: right;
+    margin: 30px;
+
+}
+li{
+    list-style-type: none;
+    color: white;
+    display: inline;
+    padding: 10px;
+    
+
+}
+nav{
+    margin-left: 0px;
+    margin-right: 600px;
+}
